@@ -1,6 +1,5 @@
 ##### "cs60075_team7_FinalReport.pdf" is the report file.
 ##### "cs60075_team7_FinalPresentation.pdf" contains the presentation file which we used for presenting the video.
-##### "cs60075_team7_FinalPresentation.mp4" contains the presentation video which explains the workflow of our code.
 ##### "MeasEval_team7_code.ipynb" contains the code.
 
 Steps for executing the code: (All the comments are also properly mentioned inside the code)
